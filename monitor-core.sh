@@ -24,4 +24,4 @@ monitor_stellar_core() {
         echo -e "\n"
 }
 
-while sleep 15; do monitor_stellar_core; done
+while sleep 60; do monitor_stellar_core; done
